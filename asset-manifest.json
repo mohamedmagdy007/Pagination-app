@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/pagination-app/static/css/main.eca1b8e1.chunk.css",
+    "main.js": "/pagination-app/static/js/main.eb0558b0.chunk.js",
+    "main.js.map": "/pagination-app/static/js/main.eb0558b0.chunk.js.map",
+    "runtime-main.js": "/pagination-app/static/js/runtime-main.14a67c9f.js",
+    "runtime-main.js.map": "/pagination-app/static/js/runtime-main.14a67c9f.js.map",
+    "static/js/2.c22429a4.chunk.js": "/pagination-app/static/js/2.c22429a4.chunk.js",
+    "static/js/2.c22429a4.chunk.js.map": "/pagination-app/static/js/2.c22429a4.chunk.js.map",
+    "index.html": "/pagination-app/index.html",
+    "static/css/main.eca1b8e1.chunk.css.map": "/pagination-app/static/css/main.eca1b8e1.chunk.css.map",
+    "static/js/2.c22429a4.chunk.js.LICENSE.txt": "/pagination-app/static/js/2.c22429a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14a67c9f.js",
+    "static/js/2.c22429a4.chunk.js",
+    "static/css/main.eca1b8e1.chunk.css",
+    "static/js/main.eb0558b0.chunk.js"
+  ]
+}
